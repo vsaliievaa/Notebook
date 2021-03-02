@@ -8,7 +8,7 @@ The app suggests a very simple and intuitive interface. First of all, the user w
 ![Starting work](starting.png?raw="text")
 To modify the existing note, the user has to enter "4" and, again, follow the prompts that appear.
 ![Starting work](modify_note.png?raw="text")
-To search for a specific letter combination or show all the notes, the user should enter "2" and "1" respectively.
+To search for a specific letter combination or show all the notes, the user should enter "2" or "1".
 ![Starting work](show_notes.png?raw="text")
 Finally, to quit the notebook, the user has to press "5". 
 ![Starting work](final.png?raw="text")
